@@ -1,4 +1,4 @@
-#Kalkulator GUI - README
+# Kalkulator GUI - README
 Opis projektu
 
 Ten projekt jest prostą aplikacją kalkulatora graficznego (GUI) napisaną w języku Java przy użyciu biblioteki Swing. Kalkulator umożliwia wykonywanie podstawowych operacji arytmetycznych, takich jak dodawanie, odejmowanie, mnożenie i dzielenie. Do obsługi obliczeń matematycznych wykorzystano bibliotekę exp4j, która umożliwia wygodną ewaluację wyrażeń matematycznych.
