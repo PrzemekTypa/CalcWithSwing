@@ -81,6 +81,4 @@ Możliwe ulepszenia
     Zaimplementowanie obsługi błędów (np. dzielenie przez zero) z bardziej przyjaznymi komunikatami dla użytkownika.
     Rozszerzenie interfejsu o dodatkowe funkcjonalności, takie jak pamięć (MC, M+, M-).
 
-Autor
-
 Autor: [Przem-T]
