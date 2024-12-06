@@ -83,4 +83,4 @@ Możliwe ulepszenia
 
 Autor
 
-Autor: [Twoje Imię i Nazwisko]
+Autor: [Przem-T]
