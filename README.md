@@ -1,4 +1,4 @@
-**Calculator in Java Swing using exp4j Library**
+# **Calculator in Java Swing using exp4j Library**
 
 ## Project Description
 
