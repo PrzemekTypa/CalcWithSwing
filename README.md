@@ -11,9 +11,9 @@ Requirements
 
 ## Installation
 
-    Clone or download the source files (Calc.java, Main.java).
+Clone or download the source files (Calc.java, Main.java).
 
-    Download the exp4j library. If using Maven, add this dependency:
+Download the exp4j library. If using Maven, add this dependency:
 ```
 <dependency>
     <groupId>net.objecthunter</groupId>
